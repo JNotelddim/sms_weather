@@ -1,1 +1,1 @@
-web: gunicorn sms-weather.wsgi
+web: gunicorn app.wsgi
